@@ -7,6 +7,7 @@ Nakata S, Takezawa M. (in prep.) Hierarchical structures emerge from the cultura
 
 The directory structure is as follows. 
 
+<pre>
 1_rawdata
 ├── Exp1
 │   ├── individual.zip
@@ -14,6 +15,7 @@ The directory structure is as follows.
 └── Exp2
     ├── individual.zip
     └── transmission.zip
+</pre>
 
 The zip file contains the raw data of the stimulus sequences reproduced by each participant.
 * The six-digit number in each file name is the participant's ID number.
