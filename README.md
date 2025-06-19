@@ -3,7 +3,7 @@
 
 This repository contains the scripts to run simulations in
 
-Nakata S, Takezawa M. (in prep.) Hierarchical structures emerge from the cultural transmission: An iterated learning experiment using a non-linguistic task.
+Nakata, S. & Takezawa, M. (2023). Hierarchical structures emerge from the cultural transmission: an iterated learning experiment using a non-linguistic task. Frontiers in Artificial Intelligence. 6:1221329. https://doi.org/10.3389/frai.2023.1221329
 
 The directory structure is as follows. 
 
